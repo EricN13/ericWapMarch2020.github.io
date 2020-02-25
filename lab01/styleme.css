@@ -1,0 +1,28 @@
+body {
+  background-color:   #FF4500;
+  color: #FFFFFF;
+}
+h1 {
+  color: #000000;
+}
+h3 {
+  color: #000000;
+}
+em{
+	font-weight: bold;
+}
+p{
+	font-family: "Times New Roman", Times, serif;
+}
+a:link { color: #ffffe6; 
+text-decoration: none
+}
+a:visited { color: #3366CC; 
+text-decoration: none
+}
+a:hover { color: #3366CC;
+ text-decoration: underline
+ }
+p::first-letter {
+  font-size: xx-large;
+}
