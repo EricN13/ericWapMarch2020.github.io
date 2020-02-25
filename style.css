@@ -81,11 +81,11 @@ body {
 }
 
 footer {
-    /* position: fixed; */
+   
     left: 0;
     bottom: 0;
     width: 100%;
-    background: #d43c1a;
+    background:#226CBB;
     height: 12.5rem;
 }
 
