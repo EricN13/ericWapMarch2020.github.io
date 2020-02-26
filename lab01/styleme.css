@@ -1,6 +1,6 @@
 
 body {
-  background-color:   #0000A0;
+  background-color:   	#0000FF;
   color: #FFFFFF;
 }
 h1 {
@@ -18,10 +18,10 @@ p{
 a:link { color: #ffffe6; 
 text-decoration: none
 }
-a:visited { color: #3366CC; 
+a:visited { color: 	#FF0000; 
 text-decoration: none
 }
-a:hover { color: #3366CC;
+a:hover { color:	#FF0000;
  text-decoration: underline
  }
 p::first-letter {
