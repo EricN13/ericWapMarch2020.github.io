@@ -1,0 +1,44 @@
+#header{
+  background-image: url(backk.jpg);
+ 
+  padding: 10px;
+  text-align: left;
+ 
+
+}
+#content{
+	 background-color: #f1f1f1;
+	  padding: 20px;
+	  text-align: left;
+	  
+}
+#adds{
+	background-color: yellow;
+	padding: 20px;
+	float:left;
+	 height: auto;
+}
+h1 {
+  color: #FFFFFF;
+}
+h3 {
+  color: #0000FF;
+}
+em{
+	font-weight: bold;
+}
+p{
+	font-family: "Times New Roman", Times, serif;
+}
+a:link { color: #0000FF; 
+text-decoration: none
+}
+a:visited { color: 	#FF0000; 
+text-decoration: none
+}
+a:hover { color:	#FF0000;
+ text-decoration: underline
+ }
+p::first-letter {
+  font-size: xx-large;
+}
