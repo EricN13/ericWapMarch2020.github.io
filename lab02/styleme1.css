@@ -1,3 +1,9 @@
+#content{
+	 background-color: #f1f1f1;
+	  padding: 20px;
+	 
+	  
+}
 #whole{
     border: 0.5px solid gray;
     width: 600px;
@@ -25,4 +31,5 @@
 }
 h1{
 	padding:50px;
+	color: #f1f1f1;
 }
