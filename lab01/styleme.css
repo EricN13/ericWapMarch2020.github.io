@@ -1,3 +1,14 @@
+#whole{
+    border: 0.5px solid gray;
+    width: 400px;
+    height: 600px;
+    padding: 20px;
+    box-shadow: 10px 10px 5px #888888;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 100px;
+    border-radius: 5px;
+}
 #header{
   background-image: url(backk.jpg);
   
@@ -12,3 +23,4 @@
 	  text-align: left;
 	  
 }
+
