@@ -58,6 +58,12 @@ body {
     background-repeat: no-repeat;
     background-size: cover;
 }
+.content h5 {
+    font-size: 13px;
+    text-transform: uppercase;
+    margin-left: 10px;
+    color: #3a3a3a;
+}
 
 .content-profile {
     z-index: 1000;
