@@ -1,8 +1,7 @@
-
 #whole{
     border: 0.5px solid gray;
-    width: 600px;
-    height: 600px;
+    width: 900px;
+    height: 1800px;
     padding: 10px;
     box-shadow: 10px 10px 5px #888888;
     margin-left: auto;
@@ -28,3 +27,10 @@ h1{
 	padding:50px;
 	color: #f1f1f1;
 }
+.answer {
+            color: black;
+        }
+
+ .question{
+            font-weight: bold;
+        }
