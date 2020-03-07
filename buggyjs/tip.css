@@ -1,0 +1,21 @@
+#content{
+    border: 0.5px solid gray;
+    width: 900px;
+    height: 800px;
+    padding: 10px;
+    box-shadow: 10px 10px 5px #888888;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 5px;
+}
+body {
+    margin-left: 20%;
+    margin-right: 20%;
+}
+body, input, button {
+    font-family: "Century Gothic",sans-serif;
+    font-size: 20pt;
+}
+div {
+    margin: 0.5em;
+}
