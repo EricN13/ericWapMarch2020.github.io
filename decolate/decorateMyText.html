@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title> my decoration</title>
+  <link href="decorateMyText2.css"  rel="stylesheet" />
+  <script src="decorateMyText1.js"></script>
+</head>
+<body>
+
+<h1> Text Decorator</h1>
+<div>
+  <img src="decorated.gif" alt="Very decorated"/>
+
+  <fieldset>
+    <legend>Text</legend>
+    <textarea rows="4" cols="30" id="text-area"></textarea>
+  </fieldset>
+
+  <fieldset>
+    <legend>Decoration</legend>
+
+    <!-- Make text more big-->
+    <button onclick="btnClicked()">Bigger Decoration!</button>
+    <!-- Trigger onCbxChanged()-->
+    <div><label><input id="checkbox" onchange="onCbxChanged()" type="checkbox"/>Bling</label></div>
+  </fieldset>
+  
+  <!-- validator for HTML, CSS and javascript-->
+  <div class="div-element">
+    <a href="https://validator.w3.org/check/referer"><img src="http://mumstudents.org/cs472/2016-03-AS-KL/images/w3c-html.png" alt="Valid HTML5"></a>
+    <a href="https://jigsaw.w3.org/css-validator/check/referer"><img src="http://mumstudents.org/cs472/2016-03-AS-KL/images/w3c-css.png" alt="Valid CSS"></a>
+    <a href="https://mumstudents.org/jshint/referer.php"><img src="http://mumstudents.org/jshint/jshint-small.png" alt="Valid JS"></a>
+  </div>
+  </div>
+
+</body>
+</html>
