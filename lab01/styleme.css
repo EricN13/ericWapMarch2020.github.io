@@ -1,19 +1,22 @@
 #whole{
     border: 0.5px solid gray;
     width: 800px;
-    height: 600px;
+    height: 1000px;
     box-shadow: 10px 10px 5px #888888;
     margin-left: auto;
     margin-right: auto;
     margin-top: 0px;
     border-radius: 10px;
+	text-align:center;
+	padding:20px
 }
 #header{
   background-image: url(backk.jpg);
      height: 130px;
-  margin:0 px;
-  border:0 px;
-  padding:0 px;
+  margin:0.5 px;
+  border:0.5 px;
+  padding:5px;
+  color : #f1f1f1;
 
 }
 #content{
