@@ -29,6 +29,10 @@ body {
 .content {
     padding-top: 50px;
 }
+.inner {
+    display: flex;
+    justify-content: left;
+}
 
 .content a {
     color: #333333;
