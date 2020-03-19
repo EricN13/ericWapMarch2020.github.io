@@ -1,7 +1,7 @@
 #whole{
     border: 0.5px solid gray;
-    width: 900px;
-    height: auto;
+    width: 1000px;
+    height: 850px;
     padding: 10px;
     box-shadow: 10px 10px 5px #888888;
     margin-left: auto;
@@ -27,10 +27,21 @@ h1{
 	padding:50px;
 	color: #f1f1f1;
 }
-.answer {
- 		font-weight: bold;
-        }
+fieldset{
+    border: 5px solid black;
+    margin-top: 10px;
+}
 
- .question{
-	  color: black;         
-        }
+label{
+    margin-top: 8px;
+}
+
+.inputTxt{
+    margin-bottom: 8px;
+}
+
+.validate {
+    right: 5px;
+    position: fixed;
+    bottom: 0;
+}
